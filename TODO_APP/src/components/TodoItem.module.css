@@ -1,0 +1,20 @@
+.Item{
+    width:500px;
+    color:black;
+    font-size: 30px;
+    margin: 0, auto;
+
+
+
+}
+
+.ItemName{
+    font-weight: bold;
+    padding: 30px;
+    
+}
+.Line{
+    border: 2px; outline-color: darksalmon;
+
+
+}
