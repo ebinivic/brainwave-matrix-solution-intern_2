@@ -16,5 +16,17 @@
 .Line{
     border: 2px; outline-color: darksalmon;
 
-
+}
+.deleteButton{
+    float: right;
+    padding:12px 20px;
+    border:none;
+    background-color:darksalmon;
+    color:aquamarine;
+    margin:-5px;
+    border-radius:4px;
+    cursor:pointer;
+}
+.completed{
+    text-decoration: line-through;
 }
